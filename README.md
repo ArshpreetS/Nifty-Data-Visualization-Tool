@@ -25,13 +25,13 @@ A simple react project that shows the prices of NIFTY 50 and NIFTY Bank for the 
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ArshpreetS/True_Beacon_project
    ```
 
 3. Change to the project directory:
 
    ```shell
-   cd your-repository
+   cd True_Beacon_project/backend/
    ```
 
 4. Install the dependencies:
@@ -61,13 +61,13 @@ A simple react project that shows the prices of NIFTY 50 and NIFTY Bank for the 
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ArshpreetS/True_Beacon_project
    ```
 
 3. Change to the project directory:
 
    ```shell
-   cd your-repository
+   cd True_Beacon_project/frontend
    ```
 
 4. Install the dependencies:
